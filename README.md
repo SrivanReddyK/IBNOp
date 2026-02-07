@@ -3,4 +3,4 @@ Intent Based Network Optimization Test Bench setup for AI network Analysis and O
 
 We want to create a test bench that can help us acheive intent based networking and to aid understanding of how sub millisecond latency optimizations can work 
 
-![Alt text](https://www.researchgate.net/profile/Gianfranco-Nencioni/publication/315116207/figure/fig4/AS:667115392614414@1536064112351/SDN-architecture-exclusive-the-management-plane.png)
+![System Diagram](images/SDN-architecture-exclusive-the-management-plane.png)
