@@ -1,0 +1,28 @@
+{
+  "devices": [
+    {
+      "mac": "AA:BB:CC:DD:01",
+      "rssi": -55,
+      "throughput": 1.5,
+      "rtt": 40,
+      "loss": 0,
+      "congestion": 0
+    },
+    {
+      "mac": "AA:BB:CC:DD:02",
+      "rssi": -68,
+      "throughput": 3.2,
+      "rtt": 85,
+      "loss": 2,
+      "congestion": 0
+    },
+    {
+      "mac": "AA:BB:CC:DD:03",
+      "rssi": -82,
+      "throughput": 6.0,
+      "rtt": 160,
+      "loss": 6,
+      "congestion": 1
+    }
+  ]
+}
